@@ -16,6 +16,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# CV (données personnelles)
+CV_*.pdf
+
 # Env
 .env
 .env.local
