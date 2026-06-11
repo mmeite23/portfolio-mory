@@ -455,6 +455,7 @@ h2 {
 .glow-blue   { background: radial-gradient(circle, #5b8def, transparent 70%); }
 .glow-purple { background: radial-gradient(circle, #9b59b6, transparent 70%); }
 .glow-green  { background: radial-gradient(circle, #2ecc71, transparent 70%); }
+.glow-red    { background: radial-gradient(circle, #e74c3c, transparent 70%); }
 
 .card-body {
   padding: 24px;
