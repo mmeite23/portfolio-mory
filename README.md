@@ -7,7 +7,7 @@
 
 ## Bonjour 👋
 
-Je m'appelle **Mory Junior Meite**, je suis étudiant en MSc Data & AI à **Mines Paris-PSL** et passionné par la donnée sous toutes ses formes — de l'analyse exploratoire aux systèmes d'agents IA, en passant par le reporting décisionnel et l'ingénierie de données.
+Je m'appelle **Mory Junior Meite**, je suis passionné par la donnée sous toutes ses formes — de l'analyse exploratoire aux systèmes d'agents IA, en passant par le reporting décisionnel et l'ingénierie de données.
 
 Ce portfolio, c'est le reflet de mon parcours : des projets académiques réels réalisés pour des entreprises comme CACEIS, Airbus ou encore des projets techniques perso que j'ai construits pour apprendre, expérimenter et pousser mes limites.
 
